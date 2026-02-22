@@ -36,10 +36,3 @@ Estudante de **Engenharia de Software** focado em desenvolvimento Backend com o 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-freitas-444102317/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrefreitas09876@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andre1Freitas&show_icons=true&theme=radical&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre1Freitas&layout=compact&theme=radical" height="150" />
-</p>

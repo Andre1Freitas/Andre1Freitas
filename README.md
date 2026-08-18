@@ -1,9 +1,5 @@
 # Olá, eu sou o André Freitas! 👋
 
-Estudante de **Engenharia de Software** focado em desenvolvimento Backend com o ecossistema **.NET**. Estou em transição de carreira, unindo minha experiência em processos industriais e administrativos com a paixão por arquitetura de software e código limpo.
-
-### 2026: O ano da formatura e do primeiro estágio/vaga 🚀
-
 ---
 
 ### 🛠️ Minha Stack Técnica
